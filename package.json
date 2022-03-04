@@ -1,0 +1,28 @@
+{
+  "name": "kuko",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Random file api generator with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoOfTheAbyss/kuko.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "rest"
+  ],
+  "author": "Neko Of The Abyss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NekoOfTheAbyss/kuko/issues"
+  },
+  "homepage": "https://github.com/NekoOfTheAbyss/kuko#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
